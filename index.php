@@ -1,5 +1,5 @@
 <?php
-require('import.php');
+require('importer.php');
 use XAWEB\SqlImport\Import;
 $filename = 'database.sql';
 $username = '';
